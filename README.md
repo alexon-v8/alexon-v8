@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Alekhyo-Biswas
+- 👋 Hi, I’m @Alekhyo-Biswas, a 12-year-old guy
 - 👀 I’m interested in Physics, Maths and Code
 - 🌱 I’m currently learning multiple things
 - 💞️ I’m looking to collaborate on code
-- 📫 How to reach me: mail me at alekhyobiswas2012@outlook.com
+- 📫 How to reach me: Mail me at alekhyobiswas2012@outlook.com
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: Did you know that Jupiter may contain water?
 <!---
