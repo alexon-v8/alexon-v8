@@ -1,4 +1,4 @@
-# Hi, I'm Alekhyo Biswas (@Alekhyo-Biswas) 👋
+# Hi, I'm Alekhyo Biswas (@alexon-v8) 👋
 
 **Systems & Language Developer · Compiler Engineer · Algorithm Designer**
 
