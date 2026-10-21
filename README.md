@@ -4,7 +4,7 @@
 
 I design and build programming languages, bytecode virtual machines, cryptographic primitives, and custom graphical/audio synthesis engines—bridging low-level **C (C17)** systems programming with interactive runtime environments.
 
-- 🌐 **Portfolio & Interactive Lab:** [Alekhyo-Biswas.github.io](https://Alekhyo-Biswas.github.io)
+- 🌐 **Portfolio & Interactive Lab:** [alexon-v8.github.io](https://alexon-v8.github.io)
 - 🔭 **Currently building:** **VerScript** (C17 compiler & VM toolchain) and **VS-Sharp (VS#)** (AST-aware diagnostic debugger)
 - ⚡ **Core focus:** Lexers, fault-tolerant AST parsers, bytecode interpreters, cryptography (`AES-256`, `xxHash`), DSP (`FFT`), and Olympiad mathematics
 
