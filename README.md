@@ -2,7 +2,7 @@
 
 **Systems & Language Developer · Compiler Engineer · Algorithm Designer**
 
-I design and build programming languages, bytecode virtual machines, cryptographic primitives, and custom graphical/audio synthesis engines—bridging low-level **C (C17)** systems programming with interactive runtime environments.
+I am a 13-yr-old, and I design and build programming languages, bytecode virtual machines, cryptographic primitives, and custom graphical/audio synthesis engines—bridging low-level **C (C17)** systems programming with interactive runtime environments.
 
 - 🌐 **Portfolio & Interactive Lab:** [alexon-v8.github.io](https://alexon-v8.github.io)
 - 🔭 **Currently building:** **VerScript** (C17 compiler & VM toolchain) and **VS-Sharp (VS#)** (AST-aware diagnostic debugger)
